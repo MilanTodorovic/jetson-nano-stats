@@ -1,10 +1,13 @@
 <h1 align="center">
 
-<b>jetson-stats</b>
+<b>jetson-nano-stats</b>  
 
 [![jetson-stats](https://github.com/rbonghi/jetson_stats/raw/master/docs/images/jtop.png)](https://rnext.it/jetson_stats/)
 
 </h1>
+
+>[!Warning]
+>For personal use and archival purposes. Refer to the original repo for updates.  
 
 <p align="center">
   <a href="https://pypistats.org/packages/jetson-stats"><img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/jetson-stats.svg" /></a>
